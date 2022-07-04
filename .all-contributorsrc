@@ -3082,7 +3082,13 @@
         "review",
         "translation"
       ]
-    }
+    },
+    {"login": "prod.ka",
+      "name": "Karen Abe",
+      "profile": "https://www.instagram.com/prod.ka",
+      "contributions": [
+        "design",
+        "eventOrganizing" ] },
   ],
   "repoType": "github",
   "repoHost": "https://github.com",
